@@ -1,0 +1,29 @@
+.main>p{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.main span {
+    color: darkslategrey;
+    background-color: goldenrod;
+}
+
+.navigasi>a {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-color: dimgray;
+}
+
+img{
+    width: 5cm;
+    height: 2cm;
+}
+
+body{
+    background-color: dodgerblue;
+}
+
