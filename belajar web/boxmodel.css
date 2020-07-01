@@ -1,0 +1,10 @@
+body,h1,p {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: slategrey;
+    width: 200px;
+    height: 200px;
+}

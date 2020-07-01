@@ -1,0 +1,37 @@
+body{
+    font-family: arial;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: darkkhaki;
+    background-image: url("./images/a35e4adffa4eb4891062bb42.jpg");
+}
+td {
+    color: crimson;
+    font-size: 20px;
+}
+
+#baris1 {
+    color: darkblue;
+    font-weight: normal;
+    font-style: italic;
+    
+}
+
+#baris2 {
+    color: darkgreen;
+    
+
+}
+
+.coba {
+    color: darkslategray;
+}
+
+p {
+    text-indent: 100px;
+    text-decoration: underline;
+    color: red;
+    
+    
+}

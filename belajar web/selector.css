@@ -1,0 +1,18 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: darkslategrey;
+}
+ul {
+    color: darkslategrey;
+}
+
+.p1 {
+    color: dodgerblue;
+    font-style: oblique;
+}
+
+li:first-child b {
+    color: darkgoldenrod;
+}
