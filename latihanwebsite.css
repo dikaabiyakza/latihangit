@@ -46,7 +46,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 body {
     font: 16px/28px arial;
     background-color: #eaeaee;
@@ -57,53 +56,49 @@ body {
     margin: auto;
     background-color: white;
 }
-
 header {
     padding: 20px;
     padding-bottom: 10px;
 }
-
 .header .judul {
     font-size: 30px;
     font-weight: bold;
-
 }
-
 .header ul li {
     display: inline-block;
     margin-top: 20px;
     margin-right: 5px;
 }
-
 .header a {
     text-decoration: none;
     color: darkred;
     padding: 5px;
 }
-
 .content {
     padding: 5px;
 }
-
 .header a:hover {
     background-color: lightseagreen;
     color:white;
 }
-
 .herro {
     height: 400px;
     background-image: url("images/laptop.jpg.jpg");
     background-size: cover;
-    border-top: 3px solid red;
-    border-bottom: white;
-
+    border-top: 3px solid lightsalmon;
+    border-bottom:3px solid lightsalmon;
+    background-position: 0 0;
 }
-
 .content h2 {
     font-family: inherit;
     font-size: 25px;
 }
-
 .content .penulis {
     font-size: 10px;
+}
+.content p {
+    margin-bottom: 30px;
+}
+.web {
+    font-size: 50px;
 }
