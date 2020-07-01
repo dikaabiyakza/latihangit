@@ -60,6 +60,7 @@ body {
 
 header {
     padding: 20px;
+    padding-bottom: 10px;
 }
 
 .header .judul {
@@ -80,14 +81,29 @@ header {
     padding: 5px;
 }
 
+.content {
+    padding: 5px;
+}
+
 .header a:hover {
     background-color: lightseagreen;
     color:white;
 }
 
 .herro {
-    width: 100%;
-    height: 500px;
+    height: 400px;
     background-image: url("images/laptop.jpg.jpg");
+    background-size: cover;
+    border-top: 3px solid red;
+    border-bottom: white;
 
+}
+
+.content h2 {
+    font-family: inherit;
+    font-size: 25px;
+}
+
+.content .penulis {
+    font-size: 10px;
 }
