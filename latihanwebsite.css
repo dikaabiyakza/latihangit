@@ -46,10 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
 body {
     font: 16px/28px arial;
     background-color: #eaeaee;
     color: #333333;
+    background-image: url(images/oriental-tiles/oriental-tiles.png);
 }
 .container {
     width: 800px;
@@ -63,9 +65,10 @@ header {
 .header .judul {
     font-size: 30px;
     font-weight: bold;
+
 }
 .header ul li {
-    display: inline-block;
+    display: inline;
     margin-top: 20px;
     margin-right: 5px;
 }
@@ -90,15 +93,27 @@ header {
     background-position: 0 0;
 }
 .content h2 {
-    font-family: inherit;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
 }
 .content .penulis {
     font-size: 10px;
+    margin-top: -5px;
 }
 .content p {
     margin-bottom: 30px;
+    
 }
-.web {
-    font-size: 50px;
+
+.paragraf p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.footer {
+    background-color:black ;
+    font-size: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
 }
