@@ -65,6 +65,7 @@ header {
 .header .judul {
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 .header ul li {
